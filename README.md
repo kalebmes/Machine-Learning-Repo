@@ -6,4 +6,4 @@ This repository contains
     => my programming assignments
   
   
- * Our Final Group project for this course can be accessed by this [link](https://github.com/abbasmammadov/Facial-Expression-Recognition)
+ * Here is the Link for our [Final Group project](https://github.com/abbasmammadov/Facial-Expression-Recognition)
