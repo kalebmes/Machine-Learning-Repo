@@ -1,5 +1,7 @@
 # CS376 - Machine Learning - KAIST
 
+This course is an introduction level course to machine learning and statistical pattern recognition. The course consists of three parts: (i) Fundamentals of Machine Learning, (ii) Deep Learning, and (iii) Reinforcement Learning. 
+
 This repository contains 
     
     => my programming assignments
