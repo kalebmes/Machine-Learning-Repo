@@ -1,4 +1,4 @@
-# CS376-Machine-Learning - KAIST
+# CS376 - Machine Learning - KAIST
 
 This repository contains 
     
