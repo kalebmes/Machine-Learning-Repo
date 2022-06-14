@@ -1,4 +1,4 @@
-# Machine learning - Repo
+# Machine learning - Repo 
 
 This repository contains all my practice codes, especially on CNNs using the PyTorch Framework
     
